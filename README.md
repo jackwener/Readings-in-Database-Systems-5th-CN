@@ -16,6 +16,14 @@
 
 本译文只供学习研究参考之用，不得公开传播发行或用于商业用途。有能力阅读英文书籍者请购买正版支持或者直接点击上面的公开版链接进行阅读。
 
+## 翻译
+
+对于专有名词，譬如 Optimizer, Parser, Transaction management 等就不做翻译。
+
+对于 “one size fits all” 类似too big to fall 这种难度又不大，有语言特色，但是翻译会失去味道的内容，不进行翻译
+
+对于 “elephants” 等有味道的词，会进行意译，譬如翻译成巨头。
+
 ## 协议
 
 [CC-BY 4.0](https://github.com/Vonng/ddia/blob/master/LICENSE)
