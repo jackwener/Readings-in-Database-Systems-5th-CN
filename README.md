@@ -22,8 +22,6 @@
 - 第二阶段会重新进行润色。
 - 第三阶段会拉些人帮忙校验。
 
-对于专有名词，譬如 Optimizer, Parser, Transaction management 等就不做翻译。
-
 对于 “one size fits all” 类似too big to fall 这种难度又不大，有语言特色，但是翻译会失去味道的内容，不进行翻译。
 
 对于 “elephants” 等有意译感觉，会影响理解内容的词，会进行意译，譬如翻译成巨头（结合第一章处的上下文）。
