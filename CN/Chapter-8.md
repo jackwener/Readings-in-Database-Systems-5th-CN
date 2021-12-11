@@ -1,3 +1,5 @@
+# Chapter 8: Interactive Analytics
+
 >Readings:
 >
 >[Venky Harinarayan, Anand Rajaraman, Jeffrey D. Ullman. Implementing Data Cubes Efficiently. *SIGMOD*, 1996.](https://scholar.google.com/scholar?cluster=9112921129698038148)
